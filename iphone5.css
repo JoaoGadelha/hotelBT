@@ -1,0 +1,38 @@
+#navbar {
+    font-size:10px;
+    height:10vh;
+}
+
+#navbar .container {
+    margin:0;
+    padding:0;
+}
+
+#navbar a {
+    margin-left:20px;
+}
+
+#showcase {
+    height:90vh;
+}
+
+#showcase .showcase-content {
+    padding-top:50px;
+}
+
+#home-info {
+    margin-bottom:350px;
+}
+
+#home-info .info-content {
+    height:700px;
+}
+
+#features .box {
+    height:400px;
+}
+
+
+#testimonials {
+    height:1300px;
+}
